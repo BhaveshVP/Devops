@@ -1,5 +1,6 @@
 aws 
+`:wq
 salesforce
-azure
+hwqsnm azure
 GCP
 
